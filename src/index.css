@@ -1,0 +1,42 @@
+*, 
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #303030;
+  background-color: #fafafa;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-width: calc(320px / 16px)rem;
+  min-height: 100vh;
+}
+
+header, 
+footer {
+  background-color: #e7e7e7;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  height: 5rem;
+}
+
+footer {
+  height: 6.25rem;
+}

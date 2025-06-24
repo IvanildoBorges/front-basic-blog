@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "login": "admin",
+      "password": "123456"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Oxi ivan youtuber",
+      "content": "Acabou de publicar um novo video"
+    }
+  ],
+  "comments": []
+}
