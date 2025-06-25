@@ -59,7 +59,7 @@ npm run dev
 
 ## Autor
 
-Desenvolvido por (Ivanildo Borges)[https://www.linkedin.com/in/IvanildoBorges]
+Desenvolvido por [Ivanildo Borges](https://www.linkedin.com/in/IvanildoBorges)
 
 
 
